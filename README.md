@@ -20,7 +20,7 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 
 ## Article Information
 - **Received**: August 18, 2020  
-- **Accepted**: December 29, 2022
+- **Accepted**: December 20, 2020
 - **DOI:** 10.5824/ajite.2022.01.002.x
 - **Full Article Access Link**: [Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi](https://dergipark.org.tr/en/pub/gmbd/issue/58697/780769) // [Identification Analysis and Reporting System on People with Covid-19 Diagnosis with Local Binary Patterns Histograms](https://dergipark.org.tr/en/pub/gmbd/issue/58697/780769)
 
