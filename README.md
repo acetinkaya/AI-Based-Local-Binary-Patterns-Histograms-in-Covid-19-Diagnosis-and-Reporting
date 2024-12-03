@@ -54,10 +54,9 @@ Today, it is aimed to develop a system different from other facial recognition s
 
 - **MLA**: Karadağ, Nuray, Ali Çetinkaya, and Hakan Aydın. "Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi." Gazi Mühendislik Bilimleri Dergisi 6.3 (2020): 172-183.
 
-## License
+## License  
 
 This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.   
-Çalışma yayınlandığı dergideki makaleler Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı ile lisanslanmıştır.
+Çalışma yayınlandığı dergideki makaleler Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı ile lisanslanmıştır.   
 
-![alternatif metin](https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/LBPH-journal.png)
-
+![alternatif metin](https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/LBPH-journal.png)   
