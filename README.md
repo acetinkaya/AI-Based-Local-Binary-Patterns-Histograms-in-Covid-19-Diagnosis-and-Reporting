@@ -19,8 +19,8 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
 ## Article Information
-- **Received**: November 10, 2021  
-- **Accepted**: January 29, 2022
+- **Received**: August 10, 2021  
+- **Accepted**: December 29, 2022
 - **DOI:** 10.5824/ajite.2022.01.002.x
 - **Full Article Access Link**: [Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi](https://dergipark.org.tr/en/pub/gmbd/issue/58697/780769) // [Identification Analysis and Reporting System on People with Covid-19 Diagnosis with Local Binary Patterns Histograms](https://dergipark.org.tr/en/pub/gmbd/issue/58697/780769)
 
