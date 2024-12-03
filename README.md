@@ -32,7 +32,7 @@ Günümüzde kullanıcılar dijital platformlarda kullanılan çevrimiçi içeri
 
 Anahtar Kelimeler: Doğal Dil İşleme, TF-IDF, İçerik Öneri Sistemi, Netflix
 
-
+Abstract:
 
 
 
