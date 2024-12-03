@@ -36,7 +36,7 @@ Günümüzde birçok alanda kullanılan yüz tanıma sistemlerine işlevsellik k
 
 Today, it is aimed to develop a system different from other facial recognition systems by adding functionality to facial recognition systems used in many areas. Recently, with the Covid-19 pandemic, curfews and difficulties in controlling these bans have been taken into consideration and this system has been developed to reduce. In the system, a study has been carried out in which the person diagnosed with Covid-19 registered in the data set can be e-mailed to the authorized person or persons upon visualization by the camera. The designed software first detects the face with the Haar-Cascades classifier and then uses LBPH (Local Binary Patterns Histograms) to perform facial recognition. This is done by tagging each pixel of the introduced image by mapping it to the other pixels around it. The result of this labeling is converted to a binary number system and stored. It tries to recognize the face by comparing the images it receives from the camera in real time with this number. In the classification process, if the person has already been registered in the data set, he / she will be placed in the “red” colored frame. The classification is also enclosed in “green” coloured frames if not registered. The aim of this is to distinguish between the person with Covid-19 diagnosis and the healthy person. The success of the applications performed on the software was measured as %90 and the error was measured as %10.
 
-## Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Netflix
+## Keywords: Facial Recognition, Identity Analysis, Covid-19, LBPH
 
 ## How to Cite
 
