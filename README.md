@@ -59,5 +59,5 @@ Today, it is aimed to develop a system different from other facial recognition s
 This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.   
 Çalışma yayınlandığı dergideki makaleler Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı ile lisanslanmıştır.
 
-![alternatif metin](https://github.com/acetinkaya/TF-IDF-and-Cosine-Similarity-Based-Content-Recommendation-System-for-Netflix-Data/blob/main/Netflix-TF-IDF.png)
+![alternatif metin](https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/LBPH-journal.png)
 
