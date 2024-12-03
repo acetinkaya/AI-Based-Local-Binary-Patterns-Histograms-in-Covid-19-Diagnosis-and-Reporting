@@ -32,10 +32,9 @@ Günümüzde birçok alanda kullanılan yüz tanıma sistemlerine işlevsellik k
 
 ## Anahtar Kelimeler: Yüz Tanıma, Kimlik Analizi, Covid-19, LBPH
 
+![alternatif metin](https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/Covid19_AI.png)
 
-https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/Covid19_AI.png
-
-
+---
 
 ## Abstract:
 
