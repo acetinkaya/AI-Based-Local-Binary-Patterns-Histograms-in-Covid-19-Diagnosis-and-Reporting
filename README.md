@@ -18,4 +18,10 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
 
+## Article Information
+- **Received**: November 10, 2021  
+- **Accepted**: January 29, 2022
+- **DOI:** 10.5824/ajite.2022.01.002.x
+- **Full Article Access Link**: [Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması](https://dergipark.org.tr/tr/pub/ajit-e/issue/68716/1012354) // [A Content Recommendation System Application with TF-IDF Algorithm and Cosine Similarity on Netflix Data](https://dergipark.org.tr/tr/pub/ajit-e/issue/68716/1012354)
 
+---
