@@ -38,4 +38,5 @@ Today, users want to search, find and consume content on online content sites us
 
 Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Netflix
 
+## How to Cite
 
