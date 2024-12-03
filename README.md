@@ -10,5 +10,5 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 - **Özlem Gelemet**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
-
-  
+- **Hakan Aydın** 
+  Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
