@@ -29,3 +29,11 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 Özet:
 
 Günümüzde kullanıcılar dijital platformlarda kullanılan çevrimiçi içerik sitelerinde bulunan içeriklerde arama yapmak, bulmak ve bunları zaman ve mekan bağımsız olarak tüketmek istemektedirler. İnternet üzerinden yayın yapan bu platformlar arasında dünya çapında en yaygın olanlardan birisi de Netflix’tir. Bu çalışmanın amacı TF-IDF (term frequency–inverse document frequency) algoritması ve Kosinüs benzerliği ile Doğal Dil İşleme (NLP) ile Netflix kullanıcı verileri üzerinde bir içerik öneri sistemi uygulaması geliştirmektir. Bu bağlamda çalışmamızda yapılan analizler ile benzerlik yöntemleri ve uygun eşleşme verilerinin bulunması, böylelikle kullanıcılara kişisel bazda öneri yapılması hedeflenmiştir. Çalışma kapsamında hem Türkçe ve hem de diğer dillerdeki filmler ve diziler üzerinde farklı deneyler yapılmıştır. Yapılan deneyler neticesinde kosinüs benzerliği kullanılarak en yüksek benzerlik başarısı %91, en düşük benzerlik başarısı ise %43 olarak elde edilmiştir. Deneyler aynı veriler üzerinde TF-IDF algoritması ile yapıldığında ise başarı oranı %99 ile %80 arasında elde edilmiştir. Çalışma sonuçları, TF-IDF algoritması ile yapılan deneylerde, kosinüs benzerliği kullanılarak yapılan deneylere nazaran daha yüksek başarı oranının elde edildiğini ortaya koymaktadır. Çalışmamızın benzerlik yöntemleri ve uygun eşleşme verileri kullanılarak kişisel bazda öneri yapmayı hedefleyen içerik tabanlı öneri sistemi uygulamalarının geliştirilmesi bağlamında literatüre katkı sağlayacağı değerlendirilmektedir.
+
+
+
+
+
+
+
+
