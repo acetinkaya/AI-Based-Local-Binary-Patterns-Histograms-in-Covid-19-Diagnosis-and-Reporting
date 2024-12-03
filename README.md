@@ -17,3 +17,5 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey 
 
 *For Correspondence: alcetinkaya@gelisim.edu.tr*
+
+
