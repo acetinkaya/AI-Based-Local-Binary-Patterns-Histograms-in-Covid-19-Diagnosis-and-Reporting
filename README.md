@@ -42,7 +42,7 @@ Today, it is aimed to develop a system different from other facial recognition s
 
 ## Keywords: Facial Recognition, Identity Analysis, Covid-19, LBPH
 
-https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/LBPH-ING.png
+![alternatif metin](https://github.com/acetinkaya/AI-Based-Local-Binary-Patterns-Histograms-in-Covid-19-Diagnosis-and-Reporting/blob/main/LBPH-ING.png)
 
 ---
 
