@@ -4,6 +4,11 @@ Identification Analysis and Reporting System on People with Covid-19 Diagnosis w
 
 Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi
 
-Gazi Mühendislik Bilimleri Dergisi (GMBD)
+---
 
-.
+## Authors
+- **Özlem Gelemet**  
+  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
+
+
+  
