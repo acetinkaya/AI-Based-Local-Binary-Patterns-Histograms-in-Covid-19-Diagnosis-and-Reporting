@@ -7,11 +7,11 @@ Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Ki
 ---
 
 ## Authors
-- **Özlem Gelemet**  
+- **Nuray Karadağ**  
   Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - **Hakan Aydın**   
-  Department of Computer Engineering, Faculty of Engineering, Istanbul Topkapı University, Istanbul, Turkey
+  Department of Computer Engineering, Faculty of Engineering and Architecture, Istanbul Gelisim University, Istanbul, Turkey
 
 - [**Ali Çetinkaya**](https://scholar.google.com.tr/citations?user=XSEW-NcAAAAJ)    
   Department of Electronics Technology, Istanbul Gelisim Vocational School, Istanbul Gelisim University, Istanbul, Turkey 
