@@ -45,3 +45,8 @@ Keywords: Natural Language Processing, TF-IDF, Content Recommendation System, Ne
 - **APA**: Gelemet, Ö., Aydın, H., & Çetinkaya, A. (2022). Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması. AJIT-E: Academic Journal of Information Technology, 13(48), 31-52. https://doi.org/10.5824/ajite.2022.01.002.x	
 
 - **MLA**: Gelemet, Özlem, Hakan Aydın, and Ali Çetinkaya. "Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması." AJIT-e: Academic Journal of Information Technology 13.48 (2022): 31-52., 2022,  doi: 10.5824/ajite.2022.01.002.x.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-Non Commercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/), allowing non-commercial sharing and adaptation with proper attribution.   
+Çalışma yayınlandığı dergideki makaleler Creative Commons Atıf-AynıLisanslaPaylaş 4.0 Uluslararası Lisansı ile lisanslanmıştır.
