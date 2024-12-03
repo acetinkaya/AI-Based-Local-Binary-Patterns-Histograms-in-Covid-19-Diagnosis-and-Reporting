@@ -44,7 +44,7 @@ Today, it is aimed to develop a system different from other facial recognition s
 
 - **APA**: Karadağ, N., Çetinkaya, A., & Aydın, H. (2020). Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi. Gazi Mühendislik Bilimleri Dergisi, 6(3), 172-183.
 
-- **MLA**: Gelemet, Özlem, Hakan Aydın, and Ali Çetinkaya. "Netflix verileri üzerinde TF-IDF algoritması ve Kosinüs benzerliği ile bir İçerik Öneri Sistemi Uygulaması." AJIT-e: Academic Journal of Information Technology 13.48 (2022): 31-52., 2022,  doi: 10.5824/ajite.2022.01.002.x.
+- **MLA**: Karadağ, Nuray, Ali Çetinkaya, and Hakan Aydın. "Yerel İkili Desenler Histogramları ile Covid-19 Tanılı Kişiler Üzerinde Kimlik Analizi ve Bildiri Sistemi." Gazi Mühendislik Bilimleri Dergisi 6.3 (2020): 172-183.
 
 ## License
 
